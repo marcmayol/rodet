@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "url": "https://github.com/marcmayol/rodet/releases/download/v0.2.0/rodet-v0.2.0.apk",
+  "sha256": "09a530ec842a0e9933e41e8f8d35806fabc2333e106adecdf8285397460db911",
+  "notas": "Primera versión en DracApps. Inventario de bobinas (alta a mano o con foto, pesar, lo que queda de cada una), calculadora de coste de impresión que lee el gcode o el .gcode.3mf (filamento + luz, extras opcionales), historial, estadísticas por tipo de filamento, color y mes, y qué volver a pedir. Y los tags NFC de siempre: Creality CFS (probado en la K2), OpenSpool y más.",
+  "check_horas": 24
+}
